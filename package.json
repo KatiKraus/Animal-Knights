@@ -1,0 +1,12 @@
+{
+  "name": "animal-knights-backend",
+  "version": "1.0.0",
+  "description": "API-Proxy für Animal Knights Spenden-Finder",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
